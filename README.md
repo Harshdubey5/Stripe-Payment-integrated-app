@@ -11,11 +11,11 @@ Welcome to Our Donation App – your trusted platform for making impactful contr
 ## Screenshots :
 
 <p>
-<img src="https://github.com/Harshdubey5/Stripe-Payment-integrated-app/assets/121623727/389d062c-94fb-4844-bbed-aac34bab2b62" alt="Splash View" width="200">
-<img src="https://github.com/Harshdubey5/Stripe-Payment-integrated-app/assets/121623727/40d83cc6-cc8c-46f5-abd5-85d11e24f46c" alt="Splash View" width="200">
-<img src="https://github.com/Harshdubey5/Stripe-Payment-integrated-app/assets/121623727/6973c5a4-6a3a-406c-8b4d-9f7a54627120" alt="Splash View" width="200">
 <img src="https://github.com/Harshdubey5/Stripe-Payment-integrated-app/assets/121623727/45aa006a-e2d4-4481-be79-8358e1d5fdfa" alt="Splash View" width="200">
 <img src="https://github.com/Harshdubey5/Stripe-Payment-integrated-app/assets/121623727/d7b8f9f8-2746-4d71-96e6-38a1ede6149a" alt="Splash View" width="200">
+<img src="https://github.com/Harshdubey5/Stripe-Payment-integrated-app/assets/121623727/40d83cc6-cc8c-46f5-abd5-85d11e24f46c" alt="Splash View" width="200">
+<img src="https://github.com/Harshdubey5/Stripe-Payment-integrated-app/assets/121623727/6973c5a4-6a3a-406c-8b4d-9f7a54627120" alt="Splash View" width="200">
+<img src="https://github.com/Harshdubey5/Stripe-Payment-integrated-app/assets/121623727/389d062c-94fb-4844-bbed-aac34bab2b62" alt="Splash View" width="200">
 </p>
 
 
