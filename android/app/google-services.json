@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "307540294804",
+    "project_id": "payment-auth-1bfad",
+    "storage_bucket": "payment-auth-1bfad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307540294804:android:ca13546ce5d7ae04010881",
+        "android_client_info": {
+          "package_name": "com.example.donation_for_a_cause"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwqTPbPvnCaurPKAoTUk7QpsU34GnAjdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
